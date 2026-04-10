@@ -41,8 +41,8 @@ This system replaces traditional manual methods with a **centralized digital pla
 ## Project Structure
 
 ```
-📁 campus-lost-found-portal
-│── 📁 public
+campus-lost-found-portal
+│── public
 │   ├── index.html
 │   ├── login.html
 │   ├── register.html
@@ -118,7 +118,7 @@ http://localhost:3000
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 ### Home Page
 
@@ -154,10 +154,10 @@ http://localhost:3000
 
 ## Future Enhancements
 
-* 📧 Email notifications
-* 🖼 Image upload for items
-* 📍 Location-based filtering
-* 📱 Mobile responsiveness
+* Email notifications
+* Image upload for items
+* Location-based filtering
+* Mobile responsiveness
 
 ---
 
